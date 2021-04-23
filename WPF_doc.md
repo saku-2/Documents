@@ -1,12 +1,13 @@
 # WPF
 
-デザイン
-MaterialDesign
-ViewとViewModelのデータバインディング
-Reactive Property
-https://www.niwaka-plus.com/entry/Prism_Entry
+## デザイン
+- MaterialDesign
+  - https://qiita.com/shuhey/items/a360d822686033667b2a
+- ViewとViewModelのデータバインディング
+- Reactive Property
+  https://www.niwaka-plus.com/entry/Prism_Entry
 
-フレームワーク
+## フレームワーク
 https://elf-mission.net/programming/wpf/getting-started-2020/step02/
 MVVM Light Toolkit
 Livet
@@ -14,38 +15,38 @@ Caliburn.Micro
 Catel
 Prism
 
-CANVAS
+## CANVAS
 https://docs.microsoft.com/ja-jp/windows/uwp/design/layout/layout-panels
 
 
-msdn code-sample
+## msdn code-sample
 https://code.msdn.microsoft.com/windowsdesktop/MVVM-d8261534
 
-公式チュートリアル
+## 公式チュートリアル
 https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/get-started/create-app-visual-studio?view=netdesktop-5.0
 
-おすすめ
+## おすすめ
 https://teratail.com/questions/16282
 
-参考になった★
+## 参考になった★
 https://yukituna.com/2365/
 
-MVVM
+## MVVM
 https://qiita.com/ebi-toro/items/046c9a43b15b9e376198
 
-かずきさんのブログ
+## かずきさんのブログ
 https://blog.okazuki.jp/entry/2014/10/25/150026
 https://github.com/runceel/samples/tree/master/wpfedu/WPF4.5
 
-トナカイさんのドキュメント
+## トナカイさんのドキュメント
 http://kisuke0303.sakura.ne.jp/blog/?p=340
 
 **********************************************
 
-公式チュートリアル
+## 公式チュートリアル
 msdn_codeSample
 
-かずきさんBook
+## かずきさんBook
 
 CANVAS
 
@@ -56,12 +57,12 @@ CANVAS
 XAML
 
 
-【XAML】
+## 【XAML】
 udemy-XAML
 http://kisuke0303.sakura.ne.jp/blog/?p=340
 CANVAS
 https://docs.microsoft.com/ja-jp/windows/uwp/design/layout/layout-panels
 
-【MVVM】
+## 【MVVM】
 パート3
 
