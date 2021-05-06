@@ -51,6 +51,32 @@
 - https://qiita.com/YSRKEN/items/5a36fb8071104a989fb8
 - リンク多数掲載
 
+- MVVMをリアクティブプログラミングで快適にReactivePropertyオーバービュー - かずきのBlog@hatena
+- https://blog.okazuki.jp/entry/2015/12/05/221154
+- INotifyPropertyChanged実装のありえない面倒くささと、ReactivePropertyの信じられない素晴らしさ - Qiita
+- https://qiita.com/ledsun/items/6f4ef754e5ae2507e531
+- ReactiveCommand で Subscribe しようとして謎のエラーに悩まされていた話
+- https://blog.kazuakix.jp/entry/2015/06/28/233439
+- PrismとReactivePropertyで簡単MVVM！
+- https://qiita.com/hiki_neet_p/items/e381c687b0644c0e4978
+- 【雑記】イベントの購読とその解除 - C# によるプログラミング入門 _ ++C++; // 未確認飛行 C
+- https://ufcpp.net/study/csharp/MiscEventSubscribe.html
+- こわくないReactive Extensions超入門 - Qiita
+- https://qiita.com/acple@github/items/6cfee916f09632037a6e
+- C#の主要インターフェース解説：IObservable、IObserver - がりらぼ
+- 
+- 【WPF】ViewModelがINotifyPropertyChangedを実装していないとメモリリークする件 - aridai.NET
+- https://aridai.net/articles/?p=15
+- MVVMでメモリリークしちゃってました 原因と対策編 - かずきのBlog@hatena
+- https://blog.okazuki.jp/entry/20110227/1298817065
+- [WPF] コントロールの任意のイベントとコマンド xaml上で関連付ける - Netplanetes
+- http://www.pine4.net/Memo/Article/Archives/417
+- ReactivePropertyの後始末 - かずきのBlog@hatena
+- https://blog.okazuki.jp/entry/2016/04/30/073755
+
+
+
+
 ## Livetの開発者の尾上大先生
 - MVVMのModelにまつわる誤解
 - http://ugaya40.hateblo.jp/entry/model-mistake
