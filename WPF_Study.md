@@ -34,6 +34,9 @@ C:\Documents\C#\Official_Prism-Samples-Wpf-master\12-UsingCompositeCommands
 - 画面内で、動的な値を渡す
 - https://garafu.blogspot.com/2014/09/wpf_22.html
 
+- ICommandクラス
+- https://blog.okazuki.jp/entry/2014/10/29/221029
+
 ## Other
 - 「完全コンストラクタパターン」
 
