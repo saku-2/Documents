@@ -35,7 +35,12 @@ C:\Documents\C#\Official_Prism-Samples-Wpf-master\12-UsingCompositeCommands
 - https://garafu.blogspot.com/2014/09/wpf_22.html
 
 - ICommandクラス
+- http://marikooota.hatenablog.com/entry/2017/05/30/234258
 - https://blog.okazuki.jp/entry/2014/10/29/221029
+
+- CommandParameter
+- xamlに定義したButtonのCommandParameterをイベントハンドラで受け取る
+- https://qiita.com/aiya000/items/1cf31699bf8122e76bd7
 
 ## Other
 - 「完全コンストラクタパターン」
