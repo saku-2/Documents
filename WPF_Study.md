@@ -41,6 +41,7 @@ C:\Documents\C#\Official_Prism-Samples-Wpf-master\12-UsingCompositeCommands
 - ICommand インタフェースは、Windows Form のイベントと比べてなかなかの曲者で 
 - Command を送信できるのは ICommandSource を実装した Button 等のコントロールだけで、
 - しかも特定のイベントにしか対応していないと言う縛り付きです。
+- System.Windows.Interactivity.dll への参照が存在するプロジェクトでは任意のイベントを Command へバインドできるようになります。
 - https://www.atmarkit.co.jp/ait/articles/1011/09/news102_2.html
 - https://elf-mission.net/programming/wpf/episode06/
 
