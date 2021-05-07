@@ -38,6 +38,9 @@ C:\Documents\C#\Official_Prism-Samples-Wpf-master\12-UsingCompositeCommands
 - http://marikooota.hatenablog.com/entry/2017/05/30/234258
 - https://blog.okazuki.jp/entry/2014/10/29/221029
 
+- https://www.atmarkit.co.jp/ait/articles/1011/09/news102_2.html
+- https://elf-mission.net/programming/wpf/episode06/
+
 - CommandParameter
 - xamlに定義したButtonのCommandParameterをイベントハンドラで受け取る
 - https://qiita.com/aiya000/items/1cf31699bf8122e76bd7
