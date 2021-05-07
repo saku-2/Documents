@@ -4,6 +4,11 @@ https://elf-mission.net/programming/wpf/getting-started-2020/step09/
 
 https://qiita.com/okazuki/items/7572f46848d0e93516b1
 
+- DataContext(公式チュートリアル）
+  https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/get-started/create-app-visual-studio?view=netdesktop-5.0
+  
+  https://docs.microsoft.com/ja-jp/samples/browse/?redirectedfrom=MSDN-samples&terms=wpf
+
 ## Other
 - 「完全コンストラクタパターン」
 
