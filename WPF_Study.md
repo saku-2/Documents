@@ -38,6 +38,9 @@ C:\Documents\C#\Official_Prism-Samples-Wpf-master\12-UsingCompositeCommands
 - http://marikooota.hatenablog.com/entry/2017/05/30/234258
 - https://blog.okazuki.jp/entry/2014/10/29/221029
 
+- ICommand インタフェースは、Windows Form のイベントと比べてなかなかの曲者で 
+- Command を送信できるのは ICommandSource を実装した Button 等のコントロールだけで、
+- しかも特定のイベントにしか対応していないと言う縛り付きです。
 - https://www.atmarkit.co.jp/ait/articles/1011/09/news102_2.html
 - https://elf-mission.net/programming/wpf/episode06/
 
