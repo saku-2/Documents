@@ -131,9 +131,9 @@ GUIアーキテクチャパターンの基礎からMVVMパターンへ (スラ�
    rcommg" + Tab
    
    
-
-- 
-- 
+## おまけ
+- 自由度の高いUI
+  http://grabacr.net/archives/1240
 - 
 - 
 - 
