@@ -24,6 +24,9 @@ C:\Documents\C#\Official_Prism-Samples-Wpf-master\12-UsingCompositeCommands
 - ListBoxの見た目をラジオボタンにする（複数選択できない）
   http://once-and-only.com/programing/c/radiobutton%E3%81%ABcollection%E3%82%92%E6%B8%A1%E3%81%97%E3%81%9F%E3%81%84%EF%BC%88c-wpf%EF%BC%89/
 
+## Plan
+- YouseiさんのサンプルコードをDLさせてもらう。
+
 ## Other
 - 「完全コンストラクタパターン」
 
