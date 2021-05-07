@@ -28,6 +28,12 @@ C:\Documents\C#\Official_Prism-Samples-Wpf-master\12-UsingCompositeCommands
 - 画面遷移
 - https://ameblo.jp/tashiro189/entry-12602862511.html
 
+- 公式チュートリアル
+- https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/get-started/create-app-visual-studio?view=netdesktop-5.0
+
+- 画面内で、動的な値を渡す
+- https://garafu.blogspot.com/2014/09/wpf_22.html
+
 ## Other
 - 「完全コンストラクタパターン」
 
