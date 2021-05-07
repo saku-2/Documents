@@ -1,6 +1,6 @@
 # WPF_Doc 調査結果
 
-## 「Prism + デザイン」でApp基本ベース作成
+- 「Prism + デザイン」でApp基本ベース作成
 デザイン
 MaterialDesign
 ViewとViewModelのデータバインディング
