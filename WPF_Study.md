@@ -1,4 +1,9 @@
 # WPF
+## 作業
+https://elf-mission.net/programming/wpf/getting-started-2020/step09/
+
+https://qiita.com/okazuki/items/7572f46848d0e93516b1
+
 ## Other
 - 「完全コンストラクタパターン」
 
