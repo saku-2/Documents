@@ -89,6 +89,9 @@ https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/controls/control-authoring-o
 - https://elf-mission.net/programming/wpf/getting-started-2020/step10
 
 ## かずき先生
+- かずき先生のGitHub
+https://github.com/runceel
+
 - 【 ReactiveProperty 】
 - 「イベント引数を加工するような仕組み (ReactiveProperty)」
 - https://blog.okazuki.jp/entry/2019/04/19/172010
