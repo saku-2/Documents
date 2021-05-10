@@ -5,12 +5,12 @@
 - WPF dynamic binding
 
 ### Base
-Udemy アンダーソンさんXAML
-かずき先生　「WPF4.5」
+- Udemy アンダーソンさんXAML
+- かずき先生　「WPF4.5」
 https://github.com/runceel/samples/tree/master/wpfedu/WPF4.5
-github private
+- github private
 DDD
-github msdn tutorial
+- github msdn tutorial
 DesktopGuide
 
 ### UIのBest Practice
