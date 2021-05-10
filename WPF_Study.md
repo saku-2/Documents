@@ -35,6 +35,9 @@ C:\Documents\C#\Official_Prism-Samples-Wpf-master\12-UsingCompositeCommands
 - https://garafu.blogspot.com/2014/09/wpf_22.html
 
 - ICommandクラス
+- イベントを使った場合はコードビハインドに処理を書いていましたが、コマンドを使う場合はViewModelに処理を書くというのが特徴です。
+- http://marikooota.hatenablog.com/entry/2017/05/30/234258
+- wpf command コードビハインド
 - http://marikooota.hatenablog.com/entry/2017/05/30/234258
 - https://blog.okazuki.jp/entry/2014/10/29/221029
 
