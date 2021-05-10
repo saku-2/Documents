@@ -91,6 +91,8 @@ https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/controls/control-authoring-o
 ## かずき先生
 - かずき先生のGitHub
 https://github.com/runceel
+- WORD 「WPF4.5」
+https://github.com/runceel/samples/tree/master/wpfedu/WPF4.5
 
 - 【 ReactiveProperty 】
 - 「イベント引数を加工するような仕組み (ReactiveProperty)」
