@@ -41,7 +41,7 @@ C:\Documents\C#\Official_Prism-Samples-Wpf-master\12-UsingCompositeCommands
 - http://marikooota.hatenablog.com/entry/2017/05/30/234258
 - https://blog.okazuki.jp/entry/2014/10/29/221029
 
-- ICommand インタフェースは、Windows Form のイベントと比べてなかなかの曲者で 
+### ICommand インタフェースは、Windows Form のイベントと比べてなかなかの曲者で 
 - Command を送信できるのは ICommandSource を実装した Button 等のコントロールだけで、
 - しかも特定のイベントにしか対応していないと言う縛り付きです。
 - System.Windows.Interactivity.dll への参照が存在するプロジェクトでは任意のイベントを Command へバインドできるようになります。
@@ -52,12 +52,13 @@ C:\Documents\C#\Official_Prism-Samples-Wpf-master\12-UsingCompositeCommands
 - xamlに定義したButtonのCommandParameterをイベントハンドラで受け取る
 - https://qiita.com/aiya000/items/1cf31699bf8122e76bd7
 
+### Adapter
 - Model 用に Adapter を追加する
 https://elf-mission.net/programming/wpf/getting-started-2020/step08/
 Model ⇔ VM 間が双方向でバインドされていれば、Model のインタフェースには戻り値を返さないメソッドを用意すれば済みます。（非同期処理の Task 等は除く）
 ですが、ここで紹介しているような単純なサンプルならともかく、複数のエンティティ系モデルをバインドするような画面の場合は Model と VM の間にもう 1 つクラスを用意した方が見通しが良くなる場合もあると思います。VMをすっきり書けるよ
 
-- カスタム コントロール
+### カスタム コントロール
 WPF にはカスタマイズに対する多くのサポートが用意されていますが、状況によっては既存の WPF コントロールではアプリケーションやそのユーザーのニーズを満たせない場合があります。 次のような状況が考えられます。
 WPF の既存の実装のルックアンドフィールをカスタマイズしても、必要とするユーザー インターフェイスを作成できない。
 WPF の既存の実装で、必要な動作がサポートされていない (または簡単にはサポートできない)。
@@ -82,7 +83,7 @@ https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/controls/control-authoring-o
 - MVVMするライブラリです。
 - コードビハインド⇒VM呼出 => Command使うこと
 
-##「ReactiveProperty」
+## 「ReactiveProperty」
 - 変更通知ができるデータバインド(コード量少ない）
 - ReactivePropertyクラス
 - ReactiveCommandクラス
@@ -99,10 +100,10 @@ https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/controls/control-authoring-o
 ## かずき先生
 - かずき先生のGitHub
 https://github.com/runceel
-- WORD 「WPF4.5」
+##### WORD 「WPF4.5」
 https://github.com/runceel/samples/tree/master/wpfedu/WPF4.5
 
-- 【 ReactiveProperty 】
+### 【 ReactiveProperty 】
 - 「イベント引数を加工するような仕組み (ReactiveProperty)」
 - https://blog.okazuki.jp/entry/2019/04/19/172010
 - 目次
@@ -117,10 +118,10 @@ https://github.com/runceel/samples/tree/master/wpfedu/WPF4.5
 - まとめ(3個）
 - https://qiita.com/okazuki/items/7572f46848d0e93516b1
 
-- 便利♪
+### 便利♪
 - https://nprogram.hatenablog.com/entry/2018/02/07/200905
 
-- 初心者♪
+### 初心者♪
 - http://tmori3y2.hatenablog.com/entry/2016/01/25/220928
 - ViewModelが大きくなる。。。
 - 結論：「ModelもReactivePropertyで実装したら良い。」
