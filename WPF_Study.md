@@ -2,7 +2,9 @@
 ## 基本
 - Version !!
 - 「.NET 5.0」で動作するかな？
-- 
+- WPF dynamic binding
+
+
 ### 公式
 - https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/data/?view=netdesktop-5.0#binding-to-collections
 - LINQ
