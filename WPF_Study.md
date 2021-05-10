@@ -14,6 +14,10 @@ DDD
 - github msdn tutorial
 DesktopGuide
 
+- DataContext
+- //★　http://marikooota.hatenablog.com/entry/2017/05/30/002059
+
+
 ### UIのBest Practice
 https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/advanced/wpf-globalization-and-localization-overview?view=netframeworkdesktop-4.8&viewFallbackFrom=netdesktop-5.0
 XAML で UI を作成しましょう。UI をコードで作成することは避けましょう。 XAML を使用して UI を作成すれば、組み込みのローカライズ API を通じてコードを公開することができます。
