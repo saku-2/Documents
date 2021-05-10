@@ -3,6 +3,16 @@
 - Version !!
 - 「.NET 5.0」で動作するかな？
 - WPF dynamic binding
+
+### Base
+Udemy アンダーソンさんXAML
+かずき先生　「WPF4.5」
+https://github.com/runceel/samples/tree/master/wpfedu/WPF4.5
+github private
+DDD
+github msdn tutorial
+DesktopGuide
+
 ### UIのBest Practice
 https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/advanced/wpf-globalization-and-localization-overview?view=netframeworkdesktop-4.8&viewFallbackFrom=netdesktop-5.0
 XAML で UI を作成しましょう。UI をコードで作成することは避けましょう。 XAML を使用して UI を作成すれば、組み込みのローカライズ API を通じてコードを公開することができます。
