@@ -63,6 +63,12 @@ https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/controls/control-authoring-o
 
 ## Other
 - 「完全コンストラクタパターン」
+- 【 Converter 】
+    .csproj も編集する？
+   http://kitunechan.hatenablog.jp/entry/2016/11/24/154531
+　　    <Compile Include="MyConverter.cs" />
+
+
 
 ## Prism
 - MVVMするライブラリです。
