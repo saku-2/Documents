@@ -66,7 +66,7 @@ https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/controls/control-authoring-o
 - 【 Converter 】
     .csproj も編集する？
    http://kitunechan.hatenablog.jp/entry/2016/11/24/154531
-　　    <Compile Include="MyConverter.cs" />
+　　https://wpf-tutorial.com/ja/39/data-binding/value-conversion-with-ivalueconverter/
 
 
 
