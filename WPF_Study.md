@@ -1,4 +1,15 @@
 # WPF
+## 基本
+- Version !!
+- 「.NET 5.0」で動作するかな？
+- 
+### 公式
+- https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/data/?view=netdesktop-5.0#binding-to-collections
+- LINQ
+https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/data/wpf-data-binding-with-linq-to-xml-overview?view=netframeworkdesktop-4.8&viewFallbackFrom=netdesktop-5.0
+
+
+
 ## 作業
 https://elf-mission.net/programming/wpf/getting-started-2020/step09/
 
