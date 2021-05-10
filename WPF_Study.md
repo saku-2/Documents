@@ -7,7 +7,8 @@
 ### Base
 - Udemy アンダーソンさんXAML
 - かずき先生　「WPF4.5」
-https://github.com/runceel/samples/tree/master/wpfedu/WPF4.5
+  - https://www.slideshare.net/okazuki0130/wpf45-38048141
+  - ×　https://github.com/runceel/samples/tree/master/wpfedu/WPF4.5
 - github private
 DDD
 - github msdn tutorial
