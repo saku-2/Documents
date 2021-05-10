@@ -3,6 +3,13 @@
 - Version !!
 - 「.NET 5.0」で動作するかな？
 - WPF dynamic binding
+### UIのBest Practice
+https://docs.microsoft.com/ja-jp/dotnet/desktop/wpf/advanced/wpf-globalization-and-localization-overview?view=netframeworkdesktop-4.8&viewFallbackFrom=netdesktop-5.0
+XAML で UI を作成しましょう。UI をコードで作成することは避けましょう。 XAML を使用して UI を作成すれば、組み込みのローカライズ API を通じてコードを公開することができます。
+コンテンツのレイアウトに絶対位置や固定サイズを使用することは避けましょう。代わりに、相対サイズや自動サイズ設定を使用するようにしましょう。
+SizeToContent を使用し、幅と高さの設定を Auto のままにしましょう。
+Canvas を使って UI をレイアウトすることは避けましょう。
+Grid とそのサイズ共有機能を使用しましょう。
 
 
 ### 公式
