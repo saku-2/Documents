@@ -52,6 +52,11 @@ C:\Documents\C#\Official_Prism-Samples-Wpf-master\12-UsingCompositeCommands
 - xamlに定義したButtonのCommandParameterをイベントハンドラで受け取る
 - https://qiita.com/aiya000/items/1cf31699bf8122e76bd7
 
+- Model 用に Adapter を追加する
+https://elf-mission.net/programming/wpf/getting-started-2020/step08/
+Model ⇔ VM 間が双方向でバインドされていれば、Model のインタフェースには戻り値を返さないメソッドを用意すれば済みます。（非同期処理の Task 等は除く）
+ですが、ここで紹介しているような単純なサンプルならともかく、複数のエンティティ系モデルをバインドするような画面の場合は Model と VM の間にもう 1 つクラスを用意した方が見通しが良くなる場合もあると思います。VMをすっきり書けるよ
+
 - カスタム コントロール
 WPF にはカスタマイズに対する多くのサポートが用意されていますが、状況によっては既存の WPF コントロールではアプリケーションやそのユーザーのニーズを満たせない場合があります。 次のような状況が考えられます。
 WPF の既存の実装のルックアンドフィールをカスタマイズしても、必要とするユーザー インターフェイスを作成できない。
